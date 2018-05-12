@@ -1,0 +1,35 @@
+_repo: The-Homeric-HymnsA-New-Prose-Translation--and-Essays-Literary-and-Mythological_16338
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2005-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymns, Greek (Classical) -- History and criticism'
+- !lcsh 'Gods, Greek -- Poetry'
+- !lcsh 'Homeric hymns -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Hymns, Greek (Classical) -- Translations into English'
+- !lcsh 'Gods, Greek, in literature'
+- !lcsh 'Homeric hymns'
+title: 'The Homeric Hymns
+
+  A New Prose Translation; and Essays, Literary and Mythological'
+url: http://www.gutenberg.org/ebooks/16338
